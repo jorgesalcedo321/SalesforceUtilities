@@ -1,0 +1,15 @@
+C:\Users\SalcedJ\source\repos\ConsoleAppReadXMLFiltering\ConsoleAppReadXMLFiltering\bin\Debug\net6.0\ConsoleAppReadXMLFiltering.exe
+C:\Users\SalcedJ\source\repos\ConsoleAppReadXMLFiltering\ConsoleAppReadXMLFiltering\bin\Debug\net6.0\ConsoleAppReadXMLFiltering.deps.json
+C:\Users\SalcedJ\source\repos\ConsoleAppReadXMLFiltering\ConsoleAppReadXMLFiltering\bin\Debug\net6.0\ConsoleAppReadXMLFiltering.runtimeconfig.json
+C:\Users\SalcedJ\source\repos\ConsoleAppReadXMLFiltering\ConsoleAppReadXMLFiltering\bin\Debug\net6.0\ConsoleAppReadXMLFiltering.dll
+C:\Users\SalcedJ\source\repos\ConsoleAppReadXMLFiltering\ConsoleAppReadXMLFiltering\bin\Debug\net6.0\ref\ConsoleAppReadXMLFiltering.dll
+C:\Users\SalcedJ\source\repos\ConsoleAppReadXMLFiltering\ConsoleAppReadXMLFiltering\bin\Debug\net6.0\ConsoleAppReadXMLFiltering.pdb
+C:\Users\SalcedJ\source\repos\ConsoleAppReadXMLFiltering\ConsoleAppReadXMLFiltering\obj\Debug\net6.0\ConsoleAppReadXMLFiltering.csproj.AssemblyReference.cache
+C:\Users\SalcedJ\source\repos\ConsoleAppReadXMLFiltering\ConsoleAppReadXMLFiltering\obj\Debug\net6.0\ConsoleAppReadXMLFiltering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SalcedJ\source\repos\ConsoleAppReadXMLFiltering\ConsoleAppReadXMLFiltering\obj\Debug\net6.0\ConsoleAppReadXMLFiltering.AssemblyInfoInputs.cache
+C:\Users\SalcedJ\source\repos\ConsoleAppReadXMLFiltering\ConsoleAppReadXMLFiltering\obj\Debug\net6.0\ConsoleAppReadXMLFiltering.AssemblyInfo.cs
+C:\Users\SalcedJ\source\repos\ConsoleAppReadXMLFiltering\ConsoleAppReadXMLFiltering\obj\Debug\net6.0\ConsoleAppReadXMLFiltering.csproj.CoreCompileInputs.cache
+C:\Users\SalcedJ\source\repos\ConsoleAppReadXMLFiltering\ConsoleAppReadXMLFiltering\obj\Debug\net6.0\ConsoleAppReadXMLFiltering.dll
+C:\Users\SalcedJ\source\repos\ConsoleAppReadXMLFiltering\ConsoleAppReadXMLFiltering\obj\Debug\net6.0\ref\ConsoleAppReadXMLFiltering.dll
+C:\Users\SalcedJ\source\repos\ConsoleAppReadXMLFiltering\ConsoleAppReadXMLFiltering\obj\Debug\net6.0\ConsoleAppReadXMLFiltering.pdb
+C:\Users\SalcedJ\source\repos\ConsoleAppReadXMLFiltering\ConsoleAppReadXMLFiltering\obj\Debug\net6.0\ConsoleAppReadXMLFiltering.genruntimeconfig.cache
